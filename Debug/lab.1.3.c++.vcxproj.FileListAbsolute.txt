@@ -1,0 +1,2 @@
+D:\1 курс\2 семестр\ООП\lab.1.3.c++\Debug\lab.1.3.c++.exe
+D:\c++\лаби\lab.1.3.c++\Debug\lab.1.3.c++.exe
